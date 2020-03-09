@@ -1,11 +1,11 @@
 # Site settings
 author: Justin Winger
-title: 
+title: Software Development
 header-img: img/home-bg.png
 email: justinwinger4@gmail.com
 copyright_name: Justin Winger
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Why I decided to learn software development
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: wipletree
 github_username:  wingerwingman
