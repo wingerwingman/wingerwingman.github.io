@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "JavaScript with a Rails API"
-date:       2020-07-17 17:56:57 +0000
+date:       2020-07-17 13:56:58 -0400
 permalink:  javascript_with_a_rails_api
 ---
 
@@ -20,4 +20,6 @@ fetch(BASE_URL+"/pcs")
         })
 This code was used to fetch all the pc items and display them. 
 The development tools in chrome are amazing with JavaScript and allow you to see all the variables and json properties. You can add break point or just step through the code one line at a time to see what is changing or happening. 
+
+Using fetch is also a great tool as it is asynchronous and will allow other code to run while it is updating the backend. This could be great if you were uploading large files or other data that may take time to update to the database.
 
